@@ -44,7 +44,7 @@ class App extends React.Component {
     return (
       <div className="App">
             <h1 className="title-container_title">Weather App</h1>  
-            <p className="title-container_subtitle">Find weather condition in cities for you</p> 
+            <p className="title-container_subtitle">Find weather condition in cities for you.</p> 
             <Form loaderWeather={this.getWeather}/>
                 <Weatherbody 
                   city={this.state.city} 
