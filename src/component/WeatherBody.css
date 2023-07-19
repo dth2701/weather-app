@@ -1,0 +1,17 @@
+.temp{
+    font-size: 100px;
+    font-weight: 900;
+    text-shadow: 3px 6px rgba(50, 50, 70, 0.5);
+}
+
+.temp_min,
+.temp_max{
+    font-size: 50px;
+    font-weight: 900;
+    text-shadow: 3px 6px rgba(50, 50, 70, 0.5);
+    padding-right: 25px;
+}
+
+.space{
+    font-size: 50px;
+}
