@@ -35,7 +35,7 @@ class App extends React.Component {
         temp_max: this.calTemp(response.data.main.temp_max),
         temp_min: this.calTemp(response.data.main.temp_min),
         hum: response.data.main.humidity,
-        description:response.data.weather[0].main
+        description:response.data.weather[0].description
       })
     }
   })
