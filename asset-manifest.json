@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/weather-app/static/css/main.4bce1711.chunk.css",
+    "main.js": "/weather-app/static/js/main.8446864b.chunk.js",
+    "main.js.map": "/weather-app/static/js/main.8446864b.chunk.js.map",
+    "runtime-main.js": "/weather-app/static/js/runtime-main.7762c79e.js",
+    "runtime-main.js.map": "/weather-app/static/js/runtime-main.7762c79e.js.map",
+    "static/css/2.4c34b247.chunk.css": "/weather-app/static/css/2.4c34b247.chunk.css",
+    "static/js/2.e49f5419.chunk.js": "/weather-app/static/js/2.e49f5419.chunk.js",
+    "static/js/2.e49f5419.chunk.js.map": "/weather-app/static/js/2.e49f5419.chunk.js.map",
+    "static/js/3.9e720146.chunk.js": "/weather-app/static/js/3.9e720146.chunk.js",
+    "static/js/3.9e720146.chunk.js.map": "/weather-app/static/js/3.9e720146.chunk.js.map",
+    "index.html": "/weather-app/index.html",
+    "static/css/2.4c34b247.chunk.css.map": "/weather-app/static/css/2.4c34b247.chunk.css.map",
+    "static/css/main.4bce1711.chunk.css.map": "/weather-app/static/css/main.4bce1711.chunk.css.map",
+    "static/js/2.e49f5419.chunk.js.LICENSE.txt": "/weather-app/static/js/2.e49f5419.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/weather-app/static/media/—Pngtree—high-rise building good weather gradient_916005.0bef98a3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7762c79e.js",
+    "static/css/2.4c34b247.chunk.css",
+    "static/js/2.e49f5419.chunk.js",
+    "static/css/main.4bce1711.chunk.css",
+    "static/js/main.8446864b.chunk.js"
+  ]
+}
